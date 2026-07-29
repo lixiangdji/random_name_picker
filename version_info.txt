@@ -8,10 +8,10 @@ https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.1.0/update.
 https://github.com/lixiangdji/random_name_picker/releases/download/v2.1.0/update.zip
 
 [HASH]
-d57be7d7a6f73699a4621c795b83edfe691ef427eda947998b6f1def6e059d2b
+a3d01c5a68c66e24c020bae65370ee293417d07b6f32d8321d4c0e859e5ec47f
 
 [SIZE]
-60510403
+60299305
 
 [UPDATER_VERSION]
 1.0.0
