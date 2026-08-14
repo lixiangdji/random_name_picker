@@ -1,26 +1,29 @@
 [VERSION]
-2.1.0
+2.2.0
 
 [URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.1.0/update.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.2.0/update.zip
 
 [URL_GITEE]
 https://github.com/lixiangdji/random_name_picker/releases/download/v2.1.0/update.zip
 
 [HASH]
-a3d01c5a68c66e24c020bae65370ee293417d07b6f32d8321d4c0e859e5ec47f
+95FE9CD77308C8845FB633240A9E77BC85BA83A58B96C0AFE14F24FAE661DBA3
 
 [SIZE]
-60299305
+62374108
 
 [UPDATER_VERSION]
 1.0.0
 
 [UPDATER_URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.1.0/updater.exe
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.2.0/updater.exe
 
 [CHANGELOG]
--全新2.1.0版本发布
+-2.2.0版本发布
+-1.新增迁移助理，迁移旧版数据更方便
+
+-近期重要更新
 -1.优化架构，采用c++作为核心引擎，大幅提升启动速度
 -2.新增悬浮窗功能，上课抽姓名更方便
 -3.支持自动联网更新
