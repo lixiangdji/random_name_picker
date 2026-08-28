@@ -8,13 +8,13 @@ https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.3.0/update.
 https://github.com/lixiangdji/random_name_picker/releases/download/v2.3.0/update.zip
 
 [HASH]
-B0E8B62081BE8FB140323A2BFC23C8E099746B3B313B388EF25C789C30084E59
+5B1B770444CB1E250076F158BC0E57E421A2F6E8DBE4788BB6DD81E0A7C43975
 
 [SIZE]
 62415389
 
 [UPDATER_VERSION]
-1.0.0
+1.1.0
 
 [UPDATER_URL]
 https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.3.0/updater_pkg.zip
