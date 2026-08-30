@@ -1,30 +1,29 @@
 [VERSION]
-2.4.0
+2.5.0
 
 [URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.4.0/update.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.5.0/update.zip
 
 [URL_GITEE]
-https://github.com/lixiangdji/random_name_picker/releases/download/v2.4.0/update.zip
+https://github.com/lixiangdji/random_name_picker/releases/download/v2.5.0/update.zip
 
 [HASH]
-4CA245C2C143D89E5ED1A1B62B93C0D4155D2C5ADCC86082EEFEE70B5822CA6C
+31B6E5481FB881507839D66CE3E00BF20533FE819D2C61E991DEA00E517E867F
 
 [SIZE]
-60313546
+60317255
 
 [UPDATER_VERSION]
 1.1.0
 
 [UPDATER_URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.4.0/updater_pkg.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.5.0/updater_pkg.zip
 
 [CHANGELOG]
--2.4.0版本发布
--1.新增开机自启动功能，可选择启动后最小化到托盘
--2.新增系统托盘图标，支持点击托盘或双击快捷方式唤起主窗口
--3.新增单实例运行机制，重复启动自动唤起已有窗口
--4.悬浮窗展开后新增"显示主界面"按钮
--5.悬浮窗与主界面同步提示待抽取名单重置状态（已重置/未重置）
--6.修复悬浮窗状态同步bug（重置状态永远显示已重置）
--7.优化Tcl/Tk运行时路径自动探测，兼容多种目录布局
+-2.5.0版本发布
+-1.新增背景渐变功能（主窗口+悬浮窗），设置里可开关
+-2.提供9种渐变预设，支持自选两个颜色
+-3.支持垂直/水平/斜向三种渐变方向
+-4.卡片样式融入渐变背景
+-5.悬浮窗改用透明键色+圆角裁剪渐变图实现真正圆角
+-6.修复关闭渐变时按钮的黑边问题
