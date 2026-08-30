@@ -1,27 +1,30 @@
 [VERSION]
-2.3.0
+2.4.0
 
 [URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.3.0/update.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.4.0/update.zip
 
 [URL_GITEE]
-https://github.com/lixiangdji/random_name_picker/releases/download/v2.3.0/update.zip
+https://github.com/lixiangdji/random_name_picker/releases/download/v2.4.0/update.zip
 
 [HASH]
-5B1B770444CB1E250076F158BC0E57E421A2F6E8DBE4788BB6DD81E0A7C43975
+4CA245C2C143D89E5ED1A1B62B93C0D4155D2C5ADCC86082EEFEE70B5822CA6C
 
 [SIZE]
-62415389
+60313546
 
 [UPDATER_VERSION]
 1.1.0
 
 [UPDATER_URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.3.0/updater_pkg.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.4.0/updater_pkg.zip
 
 [CHANGELOG]
--2.3.0版本发布
--1.设置界面按功能分组整理，操作逻辑统一
--2.添加到永久列表/展示列表支持从名单搜索选择
--3.修复数据存储目录、列表内存同步等bug
--4.更新器启动提速、支持完整自更新
+-2.4.0版本发布
+-1.新增开机自启动功能，可选择启动后最小化到托盘
+-2.新增系统托盘图标，支持点击托盘或双击快捷方式唤起主窗口
+-3.新增单实例运行机制，重复启动自动唤起已有窗口
+-4.悬浮窗展开后新增"显示主界面"按钮
+-5.悬浮窗与主界面同步提示待抽取名单重置状态（已重置/未重置）
+-6.修复悬浮窗状态同步bug（重置状态永远显示已重置）
+-7.优化Tcl/Tk运行时路径自动探测，兼容多种目录布局
