@@ -1,26 +1,28 @@
 [VERSION]
-2.5.0
+2.5.1
 
 [URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.5.0/update.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.5.1/update.zip
 
 [URL_GITEE]
-https://github.com/lixiangdji/random_name_picker/releases/download/v2.5.0/update.zip
+https://github.com/lixiangdji/random_name_picker/releases/download/v2.5.1/update.zip
 
 [HASH]
-31B6E5481FB881507839D66CE3E00BF20533FE819D2C61E991DEA00E517E867F
+0E69F85C268D683A1963ADC2E849548F909FC14F02216C27850B06615FC2661B
 
 [SIZE]
-60317255
+60319007
 
 [UPDATER_VERSION]
 1.1.0
 
 [UPDATER_URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.5.0/updater_pkg.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.5.1/updater_pkg.zip
 
 [CHANGELOG]
--2.5.0版本发布
+-2.5.1版本发布
+-近期重要更新
+-1.修复文件名为中文时编码错误的问题
 -1.新增背景渐变功能（主窗口+悬浮窗），设置里可开关
 -2.提供9种渐变预设，支持自选两个颜色
 -3.支持垂直/水平/斜向三种渐变方向
