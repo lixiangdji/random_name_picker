@@ -1,31 +1,30 @@
 [VERSION]
-2.5.1
+2.6.1
 
 [URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.5.1/update.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.6.1/update.zip
 
 [URL_GITEE]
-https://github.com/lixiangdji/random_name_picker/releases/download/v2.5.1/update.zip
+https://github.com/lixiangdji/random_name_picker/releases/download/v2.6.1/update.zip
 
 [HASH]
-0E69F85C268D683A1963ADC2E849548F909FC14F02216C27850B06615FC2661B
+03B9217CB2A543B12A70AF72FA9118F3989066E3DB73559A5115CB05D96DCC94
 
 [SIZE]
-60319007
+60322366
 
 [UPDATER_VERSION]
 1.1.0
 
 [UPDATER_URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.5.1/updater_pkg.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.6.1/updater_pkg.zip
 
 [CHANGELOG]
--2.5.1版本发布
--近期重要更新
--1.修复文件名为中文时编码错误的问题
--1.新增背景渐变功能（主窗口+悬浮窗），设置里可开关
--2.提供9种渐变预设，支持自选两个颜色
--3.支持垂直/水平/斜向三种渐变方向
--4.卡片样式融入渐变背景
--5.悬浮窗改用透明键色+圆角裁剪渐变图实现真正圆角
--6.修复关闭渐变时按钮的黑边问题
+-2.6.1版本发布
+-1.新增批量抽取模式，一次可抽取多个姓名，默认每次3人，可在设置中调整（1-10人）
+-2.三态模式切换：随机模式 → 批量抽取 → 历史记录 → 随机模式
+-3.悬浮窗自适应高度：普通模式400，批量模式520，自动限制在屏幕范围内
+-4.主窗口允许垂直拉伸，最小尺寸420×600，启动时自动限制高度预留任务栏
+-5.姓名标签增加wraplength与动态字号，长姓名/批量结果不再截断
+-6.设置界面重构为Notebook分页：数据/列表/外观/启动，支持垂直滚动
+-7.批量抽取人数设置位于数据页
