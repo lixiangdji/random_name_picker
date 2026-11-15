@@ -1,30 +1,30 @@
 [VERSION]
-2.6.1
+3.1.0
 
 [URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.6.1/update.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v3.1.0/update.zip
 
 [URL_GITEE]
-https://github.com/lixiangdji/random_name_picker/releases/download/v2.6.1/update.zip
+https://github.com/lixiangdji/random_name_picker/releases/download/v3.1.0/update.zip
 
 [HASH]
-03B9217CB2A543B12A70AF72FA9118F3989066E3DB73559A5115CB05D96DCC94
+50429EDEC6B0E473AEB83433361302162973494F9CED7375B70B66C764DF695F
 
 [SIZE]
-60322366
+49424236
 
 [UPDATER_VERSION]
-1.1.0
+3.0.0
 
 [UPDATER_URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v2.6.1/updater_pkg.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v3.1.0/updater_pkg.zip
 
 [CHANGELOG]
--2.6.1版本发布
--1.新增批量抽取模式，一次可抽取多个姓名，默认每次3人，可在设置中调整（1-10人）
--2.三态模式切换：随机模式 → 批量抽取 → 历史记录 → 随机模式
--3.悬浮窗自适应高度：普通模式400，批量模式520，自动限制在屏幕范围内
--4.主窗口允许垂直拉伸，最小尺寸420×600，启动时自动限制高度预留任务栏
--5.姓名标签增加wraplength与动态字号，长姓名/批量结果不再截断
--6.设置界面重构为Notebook分页：数据/列表/外观/启动，支持垂直滚动
--7.批量抽取人数设置位于数据页
+-1.Qt6原生版首发：界面与引擎全面重写，不再内嵌Python环境，体积更小、启动更快
+-2.全新明暗双主题，设置中一键切换、即时生效
+-3.数据与设置改存系统数据目录（可自定义），与程序目录分离，升级不影响名单数据
+-4.更新器重写为原生版：更新前自动备份当前版本与名单数据；安装目录无写权限时自动申请管理员权限
+-5.更新失败可免下载重试，安装进度与失败原因界面可见
+-6.支持稳定/测试双更新频道，测试频道提前体验新版本
+-7.设置页新增"恢复上一版本"，可一键回退升级前的程序与数据
+-8.升级后自动清理旧版残留文件
