@@ -1,17 +1,17 @@
 [VERSION]
-3.1.0
+3.2.0
 
 [URL]
-https://gitee.com/lixiangdji/random_name_picker/releases/download/v3.1.0/update.zip
+https://gitee.com/lixiangdji/random_name_picker/releases/download/v3.2.0/update.zip
 
 [URL_GITEE]
-https://github.com/lixiangdji/random_name_picker/releases/download/v3.1.0/update.zip
+https://github.com/lixiangdji/random_name_picker/releases/download/v3.2.0/update.zip
 
 [HASH]
-50429EDEC6B0E473AEB83433361302162973494F9CED7375B70B66C764DF695F
+AC932E26899F4E78FB5E6215312126F57075A6CD504BAE143DDF50F74088E6F9
 
 [SIZE]
-49424236
+49456433
 
 [UPDATER_VERSION]
 3.0.0
@@ -20,11 +20,10 @@ https://github.com/lixiangdji/random_name_picker/releases/download/v3.1.0/update
 https://gitee.com/lixiangdji/random_name_picker/releases/download/v3.1.0/updater_pkg.zip
 
 [CHANGELOG]
--1.Qt6原生版首发：界面与引擎全面重写，不再内嵌Python环境，体积更小、启动更快
--2.全新明暗双主题，设置中一键切换、即时生效
--3.数据与设置改存系统数据目录（可自定义），与程序目录分离，升级不影响名单数据
--4.更新器重写为原生版：更新前自动备份当前版本与名单数据；安装目录无写权限时自动申请管理员权限
--5.更新失败可免下载重试，安装进度与失败原因界面可见
--6.支持稳定/测试双更新频道，测试频道提前体验新版本
--7.设置页新增"恢复上一版本"，可一键回退升级前的程序与数据
--8.升级后自动清理旧版残留文件
+-1.新增"分层抽取"模式：按学生类别（表现好 / 中间 / 待进步）分池抽取
+-2.类别在名单表格 B 列标注：直接填 A / B / C，也支持"表现好、待进步"等文字
+-3.中间类别的学生两种抽取池都可能被抽到
+-4.设置中可手动调整每位学生的类别，手动设置优先于表格标注
+-5.各抽取模式（随机 / 批量 / 历史 / 分层）可在设置中分别开关
+-6.名单表格没有类别列时自动提醒并引导更换表格，避免误用分层抽取
+-7.修复悬浮窗在模式切换时的按钮错位问题
